@@ -1,0 +1,12 @@
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/bin/Debug/net6.0/JobApplicationLibrary.deps.json
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/bin/Debug/net6.0/JobApplicationLibrary.dll
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/bin/Debug/net6.0/ref/JobApplicationLibrary.dll
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/bin/Debug/net6.0/JobApplicationLibrary.pdb
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.csproj.AssemblyReference.cache
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.AssemblyInfoInputs.cache
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.AssemblyInfo.cs
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.csproj.CoreCompileInputs.cache
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.dll
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/ref/JobApplicationLibrary.dll
+/Users/senoldinc/Projects/JobApplication/JobApplicationLibrary/obj/Debug/net6.0/JobApplicationLibrary.pdb
